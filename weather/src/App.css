@@ -1,0 +1,30 @@
+.weatherbg{
+  background: url("https://s7d2.scene7.com/is/image/TWCNews/0103_bn9_weather_treasure_island");
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  }
+  .heading{
+    font-weight: 700;
+  }
+  .weatherResultBox{
+    margin: auto;
+    width: 500px;
+    height:300px;
+    background-color: white;
+   
+  }
+  .weatherIcon{
+    margin-top: 2rem;
+    width: 100px;
+    height: 100px;
+  }
+  .weatherCity{
+    font-size: 35px;
+  }
+  .weatherTemp{
+    font-size: 55px;
+    font-weight: 700;
+  }
